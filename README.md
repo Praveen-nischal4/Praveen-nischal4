@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Praveen-nischal4/Praveen-nischal4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![mybanner 1](https://github.com/Praveen-nischal4/Praveen-nischal4/assets/113875949/4bccfd4d-c79e-4486-b05d-4468e79fb886)
 
-Here are some ideas to get you started:
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Developers!+👋;Nice+to+See+You....;!&center=true&size=30&color=27F739&font=Fira+Code&weight=700">
+  </a>
+</h1>
+                             
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">  I'm Praveen Nischal, A passionate Web developer from india  </h3> 
+ 
+
+
+
