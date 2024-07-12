@@ -82,4 +82,10 @@
   <code><a href="https://www.github.com/Praveen-nischal4/" title="github" ><img width="22" src="images/github.png"> github</a></code>
 </h5>
 
+## ⚡ GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Praveen-nischal4&show_icons=true&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-nischal4&layout=compact&count_private=true&theme=gruvbox" />
+ 
+
 
