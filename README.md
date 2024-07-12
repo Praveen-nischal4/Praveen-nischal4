@@ -103,6 +103,8 @@
 
 <br>
 
+<h1> Connect to me</h1>
+<a href="https://www.linkedin.com/in/praveen-nischal/"> <img alt="Static Badge" src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logoColor=green&logoSize=auto"> </a>
 
 
 
