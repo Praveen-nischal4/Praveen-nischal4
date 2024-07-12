@@ -90,10 +90,14 @@
 
 ## Connect to Me :                          
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/praveen-nischal/" title="LinkedIn Profile"><img width="22" src="images/image1.png"> LinkedIn</a></code>
-  <code><a href="https://www.praveennischal.com" title="mysite"><img width="22" src="images/image4.png"> Personal Site</a></code>
-  <code><a href="https://stackoverflow.com/users/26347933/praveen-nischal" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.png"> Stack Overflow</a></code>
-  <code><a href="https://www.github.com/Praveen-nischal4/" title="github" ><img width="22" src="images/github.png"> github</a></code>
+ <a href="https://www.linkedin.com/in/praveen-nischal/"> <img alt="Static Badge" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logoColor=green&logoSize=100">
+ </a>
+<a href="https://www.praveennischal.com" title="mysite"> <img alt="Static Badge" src="https://img.shields.io/badge/-MyWebsite-973131?style=for-the-badge&logoSize=100&labelColor=Orange">
+ </a>
+  <a href="https://stackoverflow.com/users/26347933/praveen-nischal" title="Stack Overflow"> <img alt="Static Badge" src="https://img.shields.io/badge/-StackoverFlow-0C1844?style=for-the-badge&logoSize=100&labelColor=Orange">
+   </a>
+<a href="https://www.github.com/Praveen-nischal4/" title="github" >  <img alt="Static Badge" src="https://img.shields.io/badge/-github-000000?style=for-the-badge&logoSize=100&labelColor=Orange">
+  </a>
 </h5>
 
 ## ⚡ GitHub Stats
@@ -104,8 +108,7 @@
 <br>
 
 <h1> Connect to me</h1>
-<a href="https://www.linkedin.com/in/praveen-nischal/"> <img alt="Static Badge" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logoColor=green&logoSize=100">
- </a>
+
 
 
 
