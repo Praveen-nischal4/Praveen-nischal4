@@ -106,9 +106,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-nischal4&layout=compact&count_private=true&theme=gruvbox" />
 
 <br>
+<br> <br> <br>
 
-<h1> Connect to me</h1>
-
+<details>
+<summary> <samp>&#9776;</samp>Click for GitHub Stats <i>(click to expand) 🔗</i> </summary>
+<h1> hello welcome to my world</h1>
+</details>
 
 
 
