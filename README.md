@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Ga+Maamli&size=40&duration=5000&random=false&width=435&lines=Nice+to+meet+you" alt="Typing SVG" />
   </a>
 </h1>
- <h3 align="center"> <img src="images/waving-hand.gif" align="center" height="30"/> Hello,I'am Praveen Nischal Software Developer from 🇮🇳   </h1>
+ <h3 align="center"> <img src="images/waving-hand.gif" align="center" height="30"/> Hello,I'am Praveen Nischal Software Developer from <img src="images/india.gif" align="center" height="27"/>   </h1>
 
  ## My Skill Set  
 <table><tr><td valign="top" width="25%">
