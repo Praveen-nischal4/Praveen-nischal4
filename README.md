@@ -6,15 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Developers!+👋;Nice+to+See+You....;&center=true&size=30&color=27F739&font=Fira+Code&weight=700">
   </a>
 </h1>
-                             
-
-<h3 align="center">  I'm Praveen Nischal, A passionate Web developer from india  </h3> 
-
+                          
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/praveen-nischal/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/praveen-nischal/" title="LinkedIn Profile"><img width="22" src="images/image1.png"> LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/praveen.nischal29/" title="Facebook Profile"><img width="22" src="images/image2.png"> Facebook</a></code>
+  <code><a href="https://stackoverflow.com/users/26347933/praveen-nischal" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.png"> Stack Overflow</a></code>
+  <code><a href="https://www.github.com/Praveen-nischal4/" title="github"><img width="22" src="images/github.png"> My Website</a></code>
 </h5>
 
  
