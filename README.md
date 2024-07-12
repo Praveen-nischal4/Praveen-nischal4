@@ -11,7 +11,7 @@
   <code><a href="https://www.linkedin.com/in/praveen-nischal/" title="LinkedIn Profile"><img width="22" src="images/image1.png"> LinkedIn</a></code>
   <code><a href="https://www.facebook.com/praveen.nischal29/" title="Facebook Profile"><img width="22" src="images/image2.png"> Facebook</a></code>
   <code><a href="https://stackoverflow.com/users/26347933/praveen-nischal" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.png"> Stack Overflow</a></code>
-  <code><a href="https://www.github.com/Praveen-nischal4/" title="github"><img width="22" src="images/github.png"> My Website</a></code>
+  <code><a href="https://www.github.com/Praveen-nischal4/" title="github"><img width="22" src="images/github.png"> github</a></code>
 </h5>
 
  
