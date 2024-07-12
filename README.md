@@ -7,7 +7,7 @@
   </a>
 </h1>
 
-
+![](https://komarev.com/ghpvc/?username=Praveen-nischal4&color=dc143c&base=1000&label=Visit+Counter&style=flat-square&color=1A5319)
 
  ## My Skill Set  
 <table><tr><td valign="top" width="25%">
@@ -72,6 +72,20 @@
 <br>
 
 
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Praveen-nischal4/Patient-Dashboard-Management.git" title="Patient-Dashboard-Management"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-nischal4&repo=Patient-Dashboard-Management&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Praveen-nischal4/Hibernate-Coding.git" title="Hibernate-Coding"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Praveen-nischal4&repo=Hibernate-Coding&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
+
+
+
+
+
+
 
 
 ## Connect to Me :                          
@@ -86,6 +100,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Praveen-nischal4&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen-nischal4&layout=compact&count_private=true&theme=gruvbox" />
- 
+
+<br>
+
+
 
 
