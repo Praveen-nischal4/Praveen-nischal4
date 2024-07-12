@@ -69,6 +69,7 @@
 | Portfolio Website | Wordpress, Elemetor-plugin,Mysql(DB) | This is my Personal Portfolio Website created on Wordpress | <a href="https://www.praveennischal.com" title="portfolio"> PortfolioWebsite </a> |
 | Patient Dashboard | Servlet, HTML5, CSS, Bootstrap, Js | This is a mini project which help patient to manage its dashbaord | <a href="https://github.com/Praveen-nischal4/PatientManagementSystem.git" title="portfolio"> PatientDashboard </a> |
 
+<br>
 
 
 
@@ -76,7 +77,7 @@
 ## Connect to Me :                          
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/praveen-nischal/" title="LinkedIn Profile"><img width="22" src="images/image1.png"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/praveen.nischal29/" title="Facebook Profile"><img width="22" src="images/image2.png"> Facebook</a></code>
+  <code><a href="https://www.praveennischal.com" title="mysite"><img width="22" src="images/image4.png"> Personal Site</a></code>
   <code><a href="https://stackoverflow.com/users/26347933/praveen-nischal" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.png"> Stack Overflow</a></code>
   <code><a href="https://www.github.com/Praveen-nischal4/" title="github" ><img width="22" src="images/github.png"> github</a></code>
 </h5>
