@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Praveen-nischal4&color=dc143c&base=1000&label=Visit+Counter&style=flat-square&color=1A5319)
+
 ![mybanner 1](https://github.com/Praveen-nischal4/Praveen-nischal4/assets/113875949/4bccfd4d-c79e-4486-b05d-4468e79fb886)
 
 <h1 align="center">
@@ -112,6 +112,8 @@
 
 <br>
 <br> <br> <br>
+
+![](https://komarev.com/ghpvc/?username=Praveen-nischal4&color=dc143c&base=1000&label=Visit+Counter&style=flat-square&color=1A5319)
 
 <details>
 <summary> <samp>&#9776;</samp>Click for GitHub Stats <i>(click to expand) 🔗</i> </summary>
