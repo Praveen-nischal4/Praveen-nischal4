@@ -11,7 +11,9 @@
 <p> I love coding and have completed my Master’s in Computer Science. I recently passed a diploma in Advanced Computing from CDAC, Noida with a grade A. As a teacher and mentor, I enjoy facing challenges and strive to contribute my skills and knowledge in every aspect of life. </p>
 
 ### Currently Working on :
-- <img src="images/developer.gif" height="29"/> currently revising Spring Boot, learning React.js,& exploring microservices and RESTful APIs to enhance my full stack development skills.
+- currently revising Spring Boot, learning React.js,& exploring microservices and RESTful APIs to enhance my full stack development skills.
+
+  <img src="images/developer.gif" align="right" width="350"/> 
 
 ### Bio :
 - 🥂 Area of interest is in working with <img alt="Static Badge" src="https://img.shields.io/badge/Springboot-1A5319"> and <img alt="Static Badge" src="https://img.shields.io/badge/RESTful%20API-4477CE">
