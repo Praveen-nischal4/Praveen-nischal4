@@ -3,16 +3,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Developers!+👋;Nice+to+See+You....;&center=true&size=30&color=27F739&font=Fira+Code&weight=700">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Developers!+👋;Nice+to+See+You....;&center=true&size=30&color=006989&font=Fira+Code&weight=700">
   </a>
 </h1>
-                          
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/praveen-nischal/" title="LinkedIn Profile"><img width="22" src="images/image1.png"> LinkedIn</a></code>
-  <code><a href="https://www.facebook.com/praveen.nischal29/" title="Facebook Profile"><img width="22" src="images/image2.png"> Facebook</a></code>
-  <code><a href="https://stackoverflow.com/users/26347933/praveen-nischal" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.png"> Stack Overflow</a></code>
-  <code><a href="https://www.github.com/Praveen-nischal4/" title="github"><img width="22" src="images/github.png"> github</a></code>
-</h5>
+
+
 
  ## My Skill Set  
 <table><tr><td valign="top" width="25%">
@@ -57,13 +52,32 @@
 <img style="margin: 10px" src="images/github.png" alt="github" height="50" />  
 <img style="margin: 10px" src="images/vmware.png" alt="VMware" height="50" />  
 <img style="margin: 10px" src="images/postman.png" alt="Postman" height="50" />  
+<img style="margin: 10px" src="images/jira.png" alt="jira" height="50" /> 
 
 </div></td></tr>
 </table>  
 
-
 <br/>  
 
+## Projects worked on 
 
+| Name | Technologies Used | Description | Link Repositories |
+| --- | --- | --- | --- |
+| Online Auction System          | ASP.NET, C#, HTML4, CSS, Bootstrap, Javascript,SQL Server 2008 | Online Auction System has three section Bidder(User), Auctioneer, Admin ; Admin can make available product for auction auctioneer manage that product nad bid and finally bidder can bid if bid is minimum won the auction. | 
+| Cineplanet | Spring Boot,Hibernate, HTML5, JSP,Spring Security,JPA,Mysql, CSS, Bootstrap |  Cineplanet has two section user and Admin; Admin make available a list of movies and user can buy a tickets and book his seat from particular theatures(Screen) and finally generate his ticket. | <a href="https://www.github.com/Praveen-nischal4/" title="github"> Cineplanet </a> |
+| Grocery Store | Spring-framweork,Spring-security,Mysql,jsp,JDBC-Template,HTML,CSS,Bootstrap | Grocery Store is a Spring based project also uses Spring-security and has two section Admin and User(Customers); Admin  create menu which is available for customers and customer can add items tocart  and buy vegetables,fruits,drinks also for giving grocery store real ecommerce feel a coupon module and billing module is also developed and user can download there bill in pdf form after shopping. | <a href="https://www.github.com/Praveen-nischal4/" title="github"> GroceryStore </a> |
+| Portfolio Website | Wordpress, Elemetor-plugin,Mysql(DB) | This is my Personal Portfolio Website created on Wordpress | <a href="https://www.praveennischal.com" title="portfolio"> PortfolioWebsite </a> |
+
+
+
+
+
+## Connect to Me :                          
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/praveen-nischal/" title="LinkedIn Profile"><img width="22" src="images/image1.png"> LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/praveen.nischal29/" title="Facebook Profile"><img width="22" src="images/image2.png"> Facebook</a></code>
+  <code><a href="https://stackoverflow.com/users/26347933/praveen-nischal" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.png"> Stack Overflow</a></code>
+  <code><a href="https://www.github.com/Praveen-nischal4/" title="github" ><img width="22" src="images/github.png"> github</a></code>
+</h5>
 
 
