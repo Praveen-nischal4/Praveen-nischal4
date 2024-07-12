@@ -3,7 +3,8 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Developers!+👋;Nice+to+See+You....;&center=true&size=30&color=006989&font=Fira+Code&weight=700">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Developers!+👋;&center=true&size=30&color=006989&font=Ga+Maamli&weight=700">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ga+Maamli&size=40&duration=5000&random=false&width=435&lines=Nice+to+meet+you" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -87,9 +88,10 @@
 
 
 
-
-## Connect to Me :                          
+<p></p> Connect to Me :  <img src="images/Handshake.gif" height="60"/>  </p>    
+                   
 <h5 align="center">
+ 
  <a href="https://www.linkedin.com/in/praveen-nischal/"> <img alt="Static Badge" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logoColor=green&logoSize=100">
  </a>
 <a href="https://www.praveennischal.com" title="mysite"> <img alt="Static Badge" src="https://img.shields.io/badge/-MyWebsite-973131?style=for-the-badge&logoSize=100&labelColor=Orange">
