@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=Praveen-nischal4&color=dc143c&base=1000&label=Visit+Counter&style=flat-square&color=1A5319)
 ![mybanner 1](https://github.com/Praveen-nischal4/Praveen-nischal4/assets/113875949/4bccfd4d-c79e-4486-b05d-4468e79fb886)
 
 <h1 align="center">
@@ -6,9 +6,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+Developers!+👋;&center=true&size=30&color=006989&font=Ga+Maamli&weight=700">
     <img src="https://readme-typing-svg.herokuapp.com?font=Ga+Maamli&size=40&duration=5000&random=false&width=435&lines=Nice+to+meet+you" alt="Typing SVG" />
   </a>
+  
+
 </h1>
 
-![](https://komarev.com/ghpvc/?username=Praveen-nischal4&color=dc143c&base=1000&label=Visit+Counter&style=flat-square&color=1A5319)
+
+<h3 align="center"> 👏 Hello,I am Praveen Nischal </h1>
 
  ## My Skill Set  
 <table><tr><td valign="top" width="25%">
