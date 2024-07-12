@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Ga+Maamli&size=40&color=0C1844&duration=3500&random=false&width=435&lines=Nice+to+meet+you" alt="Typing SVG" />
   </a>
 </h1>
- <h3 align="center"> <img src="images/waving-hand.gif" align="center" height="30"/> Hello,I'am Praveen Nischal Software Developer and Teacher from <img src="images/india.gif" align="center" height="27"/> <br> </h3>
+ <h2 align="center"> <img src="images/waving-hand.gif" align="center" height="30"/> Hello,I'am Praveen Nischal Software Developer and Teacher from <img src="images/india.gif" align="center" height="27"/> <br> </h2>
 <p> I love coding and have completed my Master’s in Computer Science. I recently passed a diploma in Advanced Computing from CDAC, Noida with a grade A. As a teacher and mentor, I enjoy facing challenges and strive to contribute my skills and knowledge in every aspect of life. </p>
 
 
