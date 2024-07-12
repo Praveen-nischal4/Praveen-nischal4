@@ -10,8 +10,28 @@
  <h2 align="center"> <img src="images/waving-hand.gif" align="center" height="30"/> Hello,I'am Praveen Nischal Software Developer and Teacher from <img src="images/india.gif" align="center" height="27"/> <br> </h2>
 <p> I love coding and have completed my Master’s in Computer Science. I recently passed a diploma in Advanced Computing from CDAC, Noida with a grade A. As a teacher and mentor, I enjoy facing challenges and strive to contribute my skills and knowledge in every aspect of life. </p>
 
+### Currently Working on :
+- <img src="images/developer.gif" height="29"/> currently revising Spring Boot, learning React.js,& exploring microservices and RESTful APIs to enhance my full stack development skills.
 
- </h1>
+### Bio :
+- 🥂 Area of interest is in working with <img alt="Static Badge" src="https://img.shields.io/badge/Springboot-1A5319"> and <img alt="Static Badge" src="https://img.shields.io/badge/RESTful%20API-4477CE">
+- especially with using <img alt="Static Badge" src="https://img.shields.io/badge/microservices-331D2C">  and  <img alt="Static Badge" src="https://img.shields.io/badge/mvc-183D3D"> architecture
+- Looking to collaborate on <img alt="Static Badge" src="https://img.shields.io/badge/Springboot-1A5319"> project with developers
+-  ping me about <img alt="Static Badge" src="https://img.shields.io/badge/Springboot-1A5319">, <img alt="Static Badge" src="https://img.shields.io/badge/Spring-131842">, <img alt="Static Badge" src="https://img.shields.io/badge/Java%20projects-2E236C">,<img alt="Static Badge" src="https://img.shields.io/badge/wire%20framing-EB5B00"> <img alt="Static Badge" src="https://img.shields.io/badge/JIRA%20Software-B60071"> <img alt="Static Badge" src="https://img.shields.io/badge/REST%20api-E4003A">
+- <img src="images/message.gif" height="25"/> Reach me : <a href="mailto:praveennischal12@gmail.com" target="_blank"> <img alt="Static Badge" src="https://img.shields.io/badge/praveennischal12%40gmail.com-6B240C"> </a>
+
+
+
+
+
+
+
+
+
+ 
+
+
+
 
  ## My Skill Set  
 <table><tr><td valign="top" width="25%">
