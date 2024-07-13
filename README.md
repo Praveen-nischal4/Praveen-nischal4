@@ -138,7 +138,7 @@
 ![](https://komarev.com/ghpvc/?username=Praveen-nischal4&color=dc143c&base=1000&label=Visit+Counter&style=flat-square&color=1A5319)
 
 <details>
-<summary> <samp>&#9776;</samp>Click for GitHub Stats <i>(click to expand) 🔗</i> </summary>
+<summary> <samp>&#9776;</samp>Click for Updates to Come <i>(click to expand) 🔗</i> </summary>
 <h4> Will be updated soon</h4>
 </details>
 
