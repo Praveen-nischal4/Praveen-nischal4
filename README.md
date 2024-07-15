@@ -127,6 +127,9 @@
   </a>
 </h5>
 
+Don't just fork it 👀 Star it ⭐
+
+
 ## ⚡ GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Praveen-nischal4&show_icons=true&count_private=true&theme=gruvbox" />
