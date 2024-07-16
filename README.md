@@ -143,8 +143,8 @@ Don't just fork it 👀 Star it ⭐
 <details>
 <summary> <samp>&#9776;</samp>Click for Updates to Come <i>(click to expand) 🔗</i> </summary>
 <h4> Coming  : </h4>
-  - documentation of Grocery Store spring project <br>
-  - documentation of Cineplanet Spring boot project
+  - Updated  Grocery Store spring project Menu UI <br>
+  
 </details>
 
 
