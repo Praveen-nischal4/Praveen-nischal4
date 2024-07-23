@@ -127,6 +127,11 @@
   </a>
 </h5>
 
+## Recent Work
+| Some ScreeenShots of Grocer Store Project |
+| --- |
+| <img src="images/Menu.png" alt="myimage" width="500" height="500"/> | <img src="images/Mycart.png" alt="myimage" width="500" height="500"/> |
+
 Don't just fork it 👀 Star it ⭐
 
 
@@ -145,7 +150,7 @@ Don't just fork it 👀 Star it ⭐
 <details>
 <summary> <samp>&#9776;</samp>Click for Updates to Come <i>(click to expand) 🔗</i> </summary>
 <h4> Coming  : </h4>
-  - Updated  Grocery Store spring project Menu UI <br>
+  - To be Updated soon <br>
   
 </details>
 
