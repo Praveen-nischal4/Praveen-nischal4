@@ -128,10 +128,11 @@
 </h5>
 
 ## Recent Work
-| Some ScreeenShots of Grocer Store Project |
-| --- |
+| Some ScreeenShots  | of Grocer Store Project |
+| --- | --- |
 | <img src="images/Menu.png" alt="myimage" width="500" height="500"/> | <img src="images/Mycart.png" alt="myimage" width="500" height="500"/> |
-
+| <img src="images/login.png" alt="m" width="500" height="500"/> | <img src="images/mybill.png" alt="myimage" width="500" height="500"/> |
+| for more |  <a href="https://github.com/Praveen-nischal4/OnlineGroceryStore-Application.git" title="github" text-align="center"> GroceryStore </a> |
 Don't just fork it 👀 Star it ⭐
 
 
