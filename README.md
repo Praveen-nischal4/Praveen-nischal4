@@ -159,8 +159,8 @@ Don't just fork it 👀 Star it ⭐
 <details>
 <summary> <samp>&#9776;</samp>Click for Updates to Come <i>(click to expand) 🔗</i> </summary>
 <h4> Coming  : </h4>
-  ## Learning React & Grid-Layout  
-  ## About to Start Microservices (Spring-boot) <br>
+  ## Learning React & Grid-Layout <br>
+  ## About to Start Microservices (Spring-boot) 
   
 </details>
 
