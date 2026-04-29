@@ -159,8 +159,8 @@ Don't just fork it 👀 Star it ⭐
 <details>
 <summary> <samp>&#9776;</samp>Click for Updates to Come <i>(click to expand) 🔗</i> </summary>
 <h4> Coming  : </h4>
-  ## My Portfolio website is under construction 
-  ## my domain change to nischalpraveen.in <br>
+  ## Learning React & Grid-Layout  
+  ## About to Start Microservices (Spring-boot) <br>
   
 </details>
 
